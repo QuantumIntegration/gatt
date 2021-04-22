@@ -1,6 +1,6 @@
 package service
 
-import "github.com/bettercap/gatt"
+import "github.com/QuantumIntegration/gatt"
 
 func NewBatteryService() *gatt.Service {
 	lv := byte(100)

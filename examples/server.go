@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bettercap/gatt"
-	"github.com/bettercap/gatt/examples/option"
-	"github.com/bettercap/gatt/examples/service"
+	"github.com/QuantumIntegration/gatt"
+	"github.com/QuantumIntegration/gatt/examples/option"
+	"github.com/QuantumIntegration/gatt/examples/service"
 )
 
 func main() {

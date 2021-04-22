@@ -10,7 +10,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/bettercap/gatt/linux"
+	"github.com/QuantumIntegration/gatt/linux"
 )
 
 type peripheral struct {
